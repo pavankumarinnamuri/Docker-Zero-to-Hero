@@ -188,7 +188,7 @@ Writing a Dockerfile involves specifying a series of instructions to build a Doc
 
 ### Example Dockerfile for a Django Application
 
-1. **Choose a Base Image**: Start with a base image that has Python installed.
+1. **Choose a Base Image**: Start with a base image that has Python installed.( hii)
 2. **Set Up Working Directory**: Define the working directory inside the container.
 3. **Install Dependencies**: Install the required packages and dependencies.
 4. **Copy Application Code**: Copy the application code into the container.
